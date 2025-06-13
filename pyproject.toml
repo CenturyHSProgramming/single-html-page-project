@@ -11,10 +11,10 @@ packages = [{include = "single_html_page_project"}]
 python = "^3.8"
 file-clerk = "*"
 webcode-tk = "*"
-bs4 = "^0.0.1"
-pytest = "^7.1.3"
-pytest-html = "^3.1.1"
-pypiwin32 = "^223"
+bs4 = "*"
+pytest = "*"
+pytest-html = "*"
+pypiwin32 = "*"
 
 
 [tool.poetry.dev-dependencies]
